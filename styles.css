@@ -52,11 +52,3 @@ img {
 	color: #ce7940;
 }
 
-.carousel-inner .carousel-item {
-	height: 600px !important;
-}
-
-.carousel-item img {
-	position: relative;
-	bottom: 150px;
-}
