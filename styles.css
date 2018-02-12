@@ -52,3 +52,7 @@ img {
 	color: #ce7940;
 }
 
+.carousel-item img {
+	max-height: 100%;
+}
+
