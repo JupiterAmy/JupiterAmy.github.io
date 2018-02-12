@@ -51,9 +51,3 @@ img {
 	font-size: 2rem;
 	color: #ce7940;
 }
-
-.carousel-inner .carousel-item img {
-	object-fit: contain;
-	size: cover;
-}
-
