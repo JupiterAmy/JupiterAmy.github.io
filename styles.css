@@ -53,6 +53,7 @@ img {
 }
 
 .carousel-inner .carousel-item img {
-	object-fit: contain
+	object-fit: contain;
+	size: cover;
 }
 
