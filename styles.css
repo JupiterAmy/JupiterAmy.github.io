@@ -52,7 +52,7 @@ img {
 	color: #ce7940;
 }
 
-.carousel-item img {
-	height: 80%;
+.carousel-inner .carousel-item img {
+	object-fit: contain
 }
 
